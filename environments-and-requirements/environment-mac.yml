@@ -50,6 +50,9 @@ dependencies:
   - send2trash=1.8
   - tensorboard=2.10
   - transformers=4.23
+  - wheel
+  - fastapi
+  - uvicorn
   - pip:
       - getpass_asterisk
       - taming-transformers-rom1504

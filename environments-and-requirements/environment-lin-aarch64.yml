@@ -28,6 +28,9 @@ dependencies:
   - torchmetrics=0.7.0
   - torchvision
   - transformers=4.21.3
+  - wheel
+  - fastapi
+  - uvicorn
   - pip:
       - dependency_injector==4.40.0
       - getpass_asterisk
